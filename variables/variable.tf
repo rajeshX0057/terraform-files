@@ -1,0 +1,14 @@
+variable "region_name" {}
+variable "vpc_cidr_block" {}
+variable "vpc_tag" {}
+variable "subnet_cidr_block" {}
+variable "subnet_az" {}
+variable "subnet_tag" {}
+variable "igw_tag" {}
+variable "rt_cidr_block" {}
+variable "rt_tag" {}
+variable "Terraform" {}
+variable "ami_id" {}
+variable "ssh_key" {}
+variable "instance_type" {}
+variable "ec2_az" {}
