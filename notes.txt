@@ -1,0 +1,4 @@
+create_before_destroy = true   this can be create resource before ec2
+prevent_destroy = true  this can be protect from destroy
+
+.gitignore     create this file and add .terraform/ and .local file ,so while uploading these files will not push to github
