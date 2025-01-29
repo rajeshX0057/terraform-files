@@ -1,0 +1,3 @@
+create vpc and security
+create secrete
+create db
