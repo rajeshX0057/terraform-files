@@ -11,5 +11,5 @@ resource "aws_instance" "web-1" {
     Env        = "Prod"
     Owner      = "rajesh"
     CostCenter = "ABCD"
-  }
+
 }
