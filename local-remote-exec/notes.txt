@@ -1,0 +1,2 @@
+lookup - search amis,regions is mention in script
+element,count,index (count.index+1)----when deploying should install in different azs and different different ciderblocks
